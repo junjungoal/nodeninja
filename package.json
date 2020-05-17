@@ -1,8 +1,10 @@
 {
-   "name": "nodeninja"
-  ,"version": "0.0.1"
-  ,"private": true
-  ,"dependencies": {
+  "name": "nodeninja",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2",
     "ws": "*"
   }
 }
